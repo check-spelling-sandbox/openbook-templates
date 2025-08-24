@@ -23,7 +23,7 @@ This is about the hygiene measures we've put in place.
 
 This is about our cancellation policy specific to COVID.
 
-- The Montreal Hoteel & Suites takes the health and safety of the guests seriously
+- The Montreal Hotel & Suites takes the health and safety of the guests seriously
 - Guests must call the hotel to cancel if they have tested positive to a COVID test
 - Guests must call the hotel to cancel if they have symptoms of COVID
 - Cancellation for COVID-related reasons carries no charge to the guests and can be done at any time

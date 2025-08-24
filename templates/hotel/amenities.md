@@ -33,7 +33,7 @@ This is about the interior garage parking of the hotel, for when guests come wit
 
 - The hotel has an interior parking at the same address as the hotel
 - The cost for parking is 40$ per day
-- The parking has many electric vehicule chargers
+- The parking has many electric vehicle chargers
 - The parking has an optional valet service
-- The parking garage can accomodate both electic and gas vehicules
+- The parking garage can accomodate both electic and gas vehicles
 - The maximum height of cars allowed in the parking is 1.7 meters (6 feet)

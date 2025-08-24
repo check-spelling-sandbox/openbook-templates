@@ -18,7 +18,7 @@ This is about free services available at the hotel.
 
 This is about the paid services available at the hotel.
 
-- The hotel offers a range of conveninent amenities such as massage therapists, laundry and hair dressing services
+- The hotel offers a range of convenient amenities such as massage therapists, laundry and hair dressing services
 - The hotel has a spa and massage therapists available
 - The hotel offers hair dressing services
 - The hotel offers has laundry & deep cleaning services

@@ -28,7 +28,7 @@ This is about the management team of the hotel.
 
 This is about our commitments, social responsibilities and sustainability goals.
 
-- The hotel has commited to help the planet by reducing its carbon footprint
+- The hotel has committed to help the planet by reducing its carbon footprint
 - Here are the actions we take to help reduce our carbon footprint: (1) Towels are washed only when guests put them on the floor and (2) Lights are automatically shut off when leaving the room
 
 ## Network

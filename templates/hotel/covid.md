@@ -13,17 +13,17 @@ This is about the requirement of a vaccination passport for COVID.
 
 This is about the hygiene measures we've put in place.
 
-- The hotel offers contactless check-in & out to help minize the spread of COVID
+- The hotel offers contactless check-in & out to help minimize the spread of COVID
 - The hotel staff wears masks to protect themselves and their guests
 - Guests are required to wear masks in the hotel common areas
 - The hotel has hand sanitizers on every floor and at every entrance in the building
-- The hotel staff sanitizes the door handles, light switches etc twice a day
+- The hotel staff sanitizes the door handles, light switches, etc., twice a day
 
 ## Cancellation
 
 This is about our cancellation policy specific to COVID.
 
-- The Montreal Hoteel & Suites takes the health and safety of the guests seriously
+- The Montreal Hotel & Suites takes the health and safety of the guests seriously
 - Guests must call the hotel to cancel if they have tested positive to a COVID test
 - Guests must call the hotel to cancel if they have symptoms of COVID
 - Cancellation for COVID-related reasons carries no charge to the guests and can be done at any time

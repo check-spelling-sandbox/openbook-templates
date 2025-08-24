@@ -17,7 +17,7 @@ This is about job offers, positions available and employment.
 - Botpress has over 50 employees comprised of mostly software developers
 - Botpress has many open positions that you can apply for.
   - > Can I apply at Botpress even if I'm a web designer ?
-  - > Is Botpress curently hiring ?
+  - > Is Botpress currently hiring ?
 
 ## Founders, founding story
 

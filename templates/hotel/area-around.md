@@ -34,7 +34,7 @@ This is about top attractions and tourism around the city and nearby the hotel.
 
 ## Safety
 
-This is about the hotel neiberhood and your safety during your stay.
+This is about the hotel neighborhood and your safety during your stay.
 
 - Montreal is considered one of the safest city in the world
 - The hotel has 24/7 security personnel on site

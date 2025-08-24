@@ -11,6 +11,6 @@ This is about the hotel restaurant "La poule mouillée".
 - The restaurant is open from 6am to 11pm every day
 - The restaurant serves local french canadian food
 - Guests can put their restaurant orders on their room bill and pay at check-out
-- The restautant takes reservations, but a reservation is not mandatory. Guests can make a reservation by calling the front desk or calling the restaurant directly
+- The restaurant takes reservations, but a reservation is not mandatory. Guests can make a reservation by calling the front desk or calling the restaurant directly
 - Room service is available 24h a day 7 days a week
   - > time of food ordering

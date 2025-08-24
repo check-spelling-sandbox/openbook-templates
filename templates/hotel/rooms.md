@@ -1,13 +1,13 @@
 # Guest Rooms
 
-This is information about amendities, services and inclusions in our rooms.
+This is information about amenities, services and inclusions in our rooms.
 
 ## Features & Amenities (workspace, A/C, kitchen, safe, TV/Cable, bathroom/shower/bath, Netflix, USB)
 
 This is about the inclusions, features and amenities of the rooms.
 
 - All of our rooms are equiped with Air Conditioning, a flat screen TV, a safe, a shower, Netflix, USB plugs on the bedsides, a small fridge, an alarm clock, an iron & iron-board, a thermostat, a Nespresso coffee machine, a kettle
-- Internet access (Ethernet and Wifi) is provided free of charge in every room. The wifi password is the family name of the person on the reservation (all lower case) followed by the room number (eg. "perron102").
+- Internet access (Ethernet and WiFi) is provided free of charge in every room. The WiFi password is the family name of the person on the reservation (all lower case) followed by the room number (eg. "perron102").
 - Rooms are equipped with a Nespresso coffee machine and 5 cups. Guests can request extra Nespresso cups by calling reception.
   - > coffee machine type
   - > which coffee type

@@ -1,6 +1,6 @@
-# Amendities, services & features
+# Amenities, services & features
 
-This is information about services, amendities and features offered by the hotel.
+This is information about services, amenities and features offered by the hotel.
 
 ## Free Services
 
@@ -18,7 +18,7 @@ This is about free services available at the hotel.
 
 This is about the paid services available at the hotel.
 
-- The hotel offers a range of conveninent amenities such as massage therapists, laundry and hair dressing services
+- The hotel offers a range of convenient amenities such as massage therapists, laundry and hair dressing services
 - The hotel has a spa and massage therapists available
 - The hotel offers hair dressing services
 - The hotel offers has laundry & deep cleaning services
@@ -33,7 +33,7 @@ This is about the interior garage parking of the hotel, for when guests come wit
 
 - The hotel has an interior parking at the same address as the hotel
 - The cost for parking is 40$ per day
-- The parking has many electric vehicule chargers
+- The parking has many electric vehicle chargers
 - The parking has an optional valet service
-- The parking garage can accomodate both electic and gas vehicules
+- The parking garage can accomodate both electic and gas vehicles
 - The maximum height of cars allowed in the parking is 1.7 meters (6 feet)

@@ -12,9 +12,9 @@ This is about how we can help accomodate business meetings at our hotel.
 - Food and drink delivery can be arranged by the hotel staff
 - Each business room is equiped with a projector screen and flat-screen TV
 
-## Services / Features / Amendities
+## Services / Features / Amenities
 
-This is about amendities, services and features available for business.
+This is about amenities, services and features available for business.
 
 - The hotel offers a range of business services such as hardware, high speed internet, mailbox service and receptionist service for your business
 - The hotel has a fax, printer, copier available

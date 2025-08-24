@@ -1,6 +1,6 @@
 # Guest Rooms
 
-This is information about amendities, services and inclusions in our rooms.
+This is information about amenities, services and inclusions in our rooms.
 
 ## Features & Amenities (workspace, A/C, kitchen, safe, TV/Cable, bathroom/shower/bath, Netflix, USB)
 

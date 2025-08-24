@@ -1,6 +1,6 @@
-# Amendities, services & features
+# Amenities, services & features
 
-This is information about services, amendities and features offered by the hotel.
+This is information about services, amenities and features offered by the hotel.
 
 ## Free Services
 

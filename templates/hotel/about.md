@@ -38,7 +38,7 @@ This is information about our parent hotel network.
 - The hotel is part of the "Master Hotel" network
 - The network has over 250 hotels across Canada, the continental US and Europe
 
-## Social Media (instagram, etc)
+## Social Media (instagram, etc.)
 
 This is about where you can find us on social medias.
 

@@ -14,7 +14,7 @@ This is about our policy about pets at the hotel.
 
 This is about the smoking or the cigarette policy in the hotel.
 
-- Smoking is not permited inside the hotel, guests are required to smoke cigarette outside the hotel.
+- Smoking is not permitted inside the hotel, guests are required to smoke cigarette outside the hotel.
 
 ## Best price policy
 

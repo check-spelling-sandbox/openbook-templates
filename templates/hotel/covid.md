@@ -17,7 +17,7 @@ This is about the hygiene measures we've put in place.
 - The hotel staff wears masks to protect themselves and their guests
 - Guests are required to wear masks in the hotel common areas
 - The hotel has hand sanitizers on every floor and at every entrance in the building
-- The hotel staff sanitizes the door handles, light switches etc twice a day
+- The hotel staff sanitizes the door handles, light switches, etc., twice a day
 
 ## Cancellation
 
